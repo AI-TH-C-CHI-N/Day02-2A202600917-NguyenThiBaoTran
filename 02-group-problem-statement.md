@@ -27,6 +27,7 @@ Vì sao chọn
 - Hiệu quả vận hành.
 - Có thể đo lường hiệu quả sau khi triển khai.
 Vì sao không chọn các bài khác:
+
 | Candidate              | Vì sao chưa chọn                                                           |
 | ---------------------- | -------------------------------------------------------------------------- |
 | Hàng bán chạy bị thiếu | Là hậu quả của việc dự báo nhu cầu chưa chính xác.                         |
