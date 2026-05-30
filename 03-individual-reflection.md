@@ -22,7 +22,7 @@
 | Rule / Workflow / Agent | Phân tích mức độ tự động hóa phù hợp           | Làm rõ vì sao chưa cần Agent                                  | Đề xuất Agent hơi sớm                            | Giữ giải pháp ở mức Workflow                |
 
 
-## Bài học của Minh
+## Bài học
 Một bài toán tốt không nhất thiết phải phức tạp mà cần có workflow rõ ràng và tác động đo lường được.
 Nhiều vấn đề nhìn có vẻ khác nhau thực chất lại xuất phát từ cùng một nguyên nhân gốc.
 Trong case này, thiếu hàng và hủy hàng đều bắt nguồn từ việc dự báo nhu cầu chưa chính xác.
